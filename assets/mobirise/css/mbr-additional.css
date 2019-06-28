@@ -1847,8 +1847,8 @@ body {
   display: none;
 }
 .cid-ruJlPY0gJM {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/espamex-gras-edificios-reforma-05-baja-853x569.jpg");
 }
 .cid-ruJlPY0gJM .mbr-section-subtitle {
@@ -1892,8 +1892,8 @@ body {
   }
 }
 .cid-ruJlQDjfKU {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/7badd91e29deb645919adca5fa22a114-1280x960.jpg");
 }
 .cid-ruJlQDjfKU .mbr-section-subtitle {
@@ -1937,8 +1937,8 @@ body {
   }
 }
 .cid-ruJlQX1CMQ {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/espamex-gruas-torre-853x569.jpg");
 }
 .cid-ruJlQX1CMQ .mbr-section-subtitle {
@@ -1982,8 +1982,8 @@ body {
   }
 }
 .cid-ruJlRdeey3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/60d755c0ee7a2d63817773b7870ddf68-1513x1080.jpg");
 }
 .cid-ruJlRdeey3 .mbr-section-subtitle {
@@ -2027,8 +2027,8 @@ body {
   }
 }
 .cid-ruJlRAnNhy {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/e49e999008bb9420c648c9b79f1f6956-1440x1080.jpg");
 }
 .cid-ruJlRAnNhy .mbr-section-subtitle {
@@ -2072,8 +2072,8 @@ body {
   }
 }
 .cid-ruJlQhJOsd {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/espamex-gras-edificios-reforma-19-baja-853x569.jpg");
 }
 .cid-ruJlQhJOsd .mbr-section-subtitle {
@@ -2117,8 +2117,8 @@ body {
   }
 }
 .cid-ruJlP1mUOX {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/6e87a7570058677f3485c646bcfcf1bb-1024x683.jpg");
 }
 .cid-ruJlP1mUOX .mbr-section-subtitle {
@@ -2158,51 +2158,6 @@ body {
 }
 @media (min-width: 769px) {
   .cid-ruJlP1mUOX .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
-}
-.cid-ruJlPxPVU3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/87feecfe450ff4b2e3d18517c1f6fd34-1440x1080.jpg");
-}
-.cid-ruJlPxPVU3 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ruJlPxPVU3 .formoid {
-  margin: auto;
-}
-.cid-ruJlPxPVU3 .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-ruJlPxPVU3 .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-ruJlPxPVU3 a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-ruJlPxPVU3 a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-ruJlPxPVU3 .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-ruJlPxPVU3 .form-group,
-  .cid-ruJlPxPVU3 .input-group-btn,
-  .cid-ruJlPxPVU3 .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-ruJlPxPVU3 .mbr-form .row > * {
     padding: 0 0.5rem;
   }
 }
